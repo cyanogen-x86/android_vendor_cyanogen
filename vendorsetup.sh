@@ -26,3 +26,5 @@ add_lunch_combo cyanogen_passion-userdebug
 add_lunch_combo cyanogen_passion-eng
 add_lunch_combo cyanogen_sholes-userdebug
 add_lunch_combo cyanogen_sholes-eng
+add_lunch_combo cyanogen_x86-eng
+add_lunch_combo generic_x86-eng
