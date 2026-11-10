@@ -8,7 +8,6 @@ TARGET_OTA_SCRIPT_MODE=amend
 # to override PRODUCT_PACKAGES from an inheriting product yet.
 
 # build/target/product.core.mk
-PRODUCT_POLICY := android.policy_phone
 PRODUCT_PROPERTY_OVERRIDES := \
     ro.config.notification_sound=OnTheHunt.ogg \
     ro.config.alarm_alert=Alarm_Classic.ogg
